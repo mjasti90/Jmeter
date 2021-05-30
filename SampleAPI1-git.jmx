@@ -240,7 +240,7 @@ vars.put(&quot;randomVaraible&quot;,a);</stringProp>
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Users\rtmul\AppData\Local\Jenkins\.jenkins\workspace\SampleAPI1_FromLocal\SampleAPI1_FromLocal_TestResults-${__time(MMddyyyy-HHmmss,)}.csv</stringProp>
+          <stringProp name="filename">C:\Users\rtmul\AppData\Local\Jenkins\.jenkins\workspace\SampleAPI1_FromGit\SampleAPI1_FromGit_TestResults-${__time(MMddyyyy-HHmmss,)}.csv</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
